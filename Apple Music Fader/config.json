@@ -1,0 +1,21 @@
+{
+	"pluginName": "Music Fader",
+	"pluginDescription": "Apple Music Fading Macros",
+	"pluginReadMore": "Fades in and out",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Toggle and Fade Audio",
+			"fileName": "toggle-fade-inout.scpt",
+		},
+		{
+			"actionName": "Fade In",
+			"fileName": "fadein.scpt",
+		},
+		{
+			"actionName": "Fade Out",
+			"fileName": "fadeout.scpt",
+		}
+	]
+}

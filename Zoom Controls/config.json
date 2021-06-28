@@ -1,0 +1,21 @@
+{
+	"pluginName": "Zoom Controls",
+	"pluginDescription": "Controls for Zoom",
+	"pluginReadMore": "...",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Mute / Un Mute Audio (Toggle)",
+			"fileName": "mute-toggle.scpt",
+		},
+		{
+			"actionName": "Start / Stop Video (Toggle)",
+			"fileName": "video-toggle.scpt",
+		},
+		{
+			"actionName": "Switch Video Feed",
+			"fileName": "video-feed-switch.scpt",
+		}
+	]
+}
