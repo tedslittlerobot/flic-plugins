@@ -1,21 +1,21 @@
 {
 	"pluginName": "Music Fader",
 	"pluginDescription": "Apple Music Fading Macros",
-	"pluginReadMore": "Fades in and out",
+	"pluginReadMore": "Controls and fades music and system volume",
 	"protocolVersion": 1,
 	"actions":
 	[
 		{
-			"actionName": "Toggle and Fade Audio",
-			"fileName": "toggle-fade-inout.scpt",
+			"actionName": "Start Music and Fade In",
+			"fileName": "start-fade-in.scpt",
 		},
 		{
-			"actionName": "Fade In",
-			"fileName": "fadein.scpt",
+			"actionName": "Fade to Low",
+			"fileName": "fade-to-low.scpt",
 		},
 		{
 			"actionName": "Fade Out",
-			"fileName": "fadeout.scpt",
+			"fileName": "end-fade-out.scpt",
 		}
 	]
 }
