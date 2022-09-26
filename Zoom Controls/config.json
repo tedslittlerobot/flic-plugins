@@ -6,6 +6,14 @@
 	"actions":
 	[
 		{
+			"actionName": "Mute Audio",
+			"fileName": "mute.scpt",
+		},
+		{
+			"actionName": "Un Mute Audio",
+			"fileName": "unmute.scpt",
+		},
+		{
 			"actionName": "Mute / Un Mute Audio (Toggle)",
 			"fileName": "mute-toggle.scpt",
 		},
